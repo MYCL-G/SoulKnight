@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: laser
+  m_Controller: {fileID: 9100000, guid: 9445acc2a4e2a1446bd380dbcc0d1e45, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 38d435dcfc73d38499f11eadaac12a32, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2b709aaead6c35c49a69efa2c8e77e0d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9488ff014370a73418e35dac375c995d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 350454de501ca6146bbb814f39b17597, type: 2}
